@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "recipeapp",
     "name": "Recipe_App",
     "slug": "Recipe_App",
     "version": "1.0.0",
